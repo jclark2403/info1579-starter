@@ -57,6 +57,7 @@ const adjustedDailyHours = totalStudyHours / 6;
 const adjustedDailyMinutes = adjustedDailyHours * 60;
 
 // DISPLAY STARTER RESULTS
+
 display("Welcome Message", welcomeMessage);
 display("My Name", name);
 display("Enrolled", isEnrolled);
